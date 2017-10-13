@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">LocDVD</string>
+    <string name="annee_de_sortie">"Année de sortie : %d"</string>
+
+    <string name="titre_du_film">"Titre du film"</string>
+    <string name="annee_de_sortie_libelle">"Année de sortie"</string>
+    <string name="acteurs">"Acteurs"</string>
+    <string name="resume">"Résumé"</string>
+    <string name="date_dernier_visionnage">Date de dernier visionnage</string>
+    <string name="date_dernier_visionnage_avec_valeur">Date de dernier visionnage : %s</string>
+    <string name="modifier_date_dernier_visionnage">Modifier la date de dernier visionnage</string>
+    <string name="reinitialisez">"Réinitialiser la base de données"</string>
+    <string name="infos">Informations</string>
+
+    <string-array name="drawer_Items">
+        <item>Accueil</item>
+        <item>Nouveau DVD</item>
+        <item>Rechercher</item>
+    </string-array>
+
+    <string name="confirmer_reinitialisation_title">Confirmer la réinitialisation ?</string>
+    <string name="confirmer_reinitialisation_message">"Etes-vous certain de vouloir réinitialiser la base de données ?\nToutes les données seront définitivement effacées !"</string>
+    <string name="non">Non</string>
+    <string name="oui">Oui</string>
+
+    <string name="informations_message">
+        "L'application LocDVD est l'application compagnon du livre 'Développez une application Android', aux éditions ENI.
+        \n\nElle a été entièrement développée en suivant le livre,
+        et aborde les principaux domaines de la création d'application
+        pour tous les terminaux Android : de la création du projet
+        à la publication de l'application sur le Play Store,
+        en passant par la création et la manipulation de bases de données,
+        l'adaptation pour tablette et smartphone,
+        la programmation asynchrone, etc...
+        \n\n\n Bonne lecture !"</string>
+    <string name="fermer">Fermer</string>
+
+    <string name="initialisation_de_la_base_de_donnees">"Initialisation de la base de données"</string>
+    <string name="x_dvd_inseres_dans_la_base">"%d DVD insérés dans la base"</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="detail">plus de détails</string>
+
+    <string name="envoyer_une_notification">Envoyer une notification</string>
+
+    <string name="partager">Partager</string>
+    <string name="prendre_une_photo">Prendre une photo</string>
+
+</resources>
